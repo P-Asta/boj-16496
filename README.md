@@ -1,5 +1,6 @@
 # boj-16496
 백준 16496을 러스트(rust)로 푼 코드
+## [`/main.rs`](https://github.com/5-23/boj-16496/blob/main/main.rs)
 ```rs
 use std::io::stdin;
 fn main(){
